@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Connect",
+  "description": "AI-Powered Artisan Catalogue and Smart Buyer Matching Platform connecting traditional Indian artisans with bulk buyers and conscious consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
